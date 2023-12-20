@@ -1,16 +1,3 @@
-td{
-    width: 1920px;
-    height: 300px;
-}
-.piros{
-    background-color: red;
-}
-.zold{
-    background-color: green;
-}
-.feher{
-    background-color: white;
-}
 ul{
     list-style-type: none;
     margin: 0;
